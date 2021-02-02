@@ -1,1 +1,1 @@
-1. First test repo o Complete Ruby On rails Developer by Mashrur Hossain
+1. First test repo o Complete Ruby On rails Developer by (..)
